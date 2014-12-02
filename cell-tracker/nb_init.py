@@ -23,3 +23,5 @@ from mpl_toolkits.mplot3d import Axes3D
 from sktracker.trajectories import Trajectories, draw
 from sktracker.trajectories.measures import rotation, translation
 from sktracker.trajectories.measures import transformation
+
+from sktracker.trajectories.measures import correlation
